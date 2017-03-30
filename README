@@ -1,3 +1,7 @@
+This is a fork of LuaJIT which enables 64-bit builds to provide a custom allocator.
+
+The provided allocator has to satisfy LuaJIT's requirements.
+
 README for LuaJIT 2.0.4
 -----------------------
 
